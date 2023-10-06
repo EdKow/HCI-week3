@@ -1,0 +1,27 @@
+body{
+    width: 100%;
+    margin: 0;
+    font-size: 16px;
+    background-image: url('pics/back.jpeg');
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+.container {
+    border: 2px solid #333;
+    padding: 20px;
+    width: 450px;
+    max-width: 700px;
+    min-width: 250px;
+    background-color: aliceblue;
+    align-items: center;
+}
+.center{
+    justify-content: center;
+    text-align: center;
+    display: flex;
+    align-items: center;
+}
+table{
+    border-collapse: collapse;
+}
